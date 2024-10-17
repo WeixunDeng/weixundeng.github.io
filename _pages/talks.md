@@ -2,7 +2,7 @@
 title: "Computing isotopy type of positive zero sets faster for near-circuit polynomials"
 collection: talks
 type: "Talk"
-permalink: /talk/
+permalink: /talks/
 date: Oct. 2024
 location: "Waco, Texas"
 ---
