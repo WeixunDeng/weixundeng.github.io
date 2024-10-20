@@ -1,13 +1,13 @@
 ---
 permalink: /
+title: "Weixun Deng"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Weixun Deng
-======
+
 deng15521037237@tamu.edu
 
 About Me
