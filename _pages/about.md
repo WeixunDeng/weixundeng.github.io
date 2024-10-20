@@ -21,12 +21,12 @@ You can find my completed CV here.
 
 Education
 ======
-*Ph.D in Mathematics, Texas A&M University, 2019 - present
-*B.S. in Mathematics, Nankai University, 2015 - 2019
+* Ph.D in Mathematics, Texas A&M University, 2019 - present
+* B.S. in Mathematics, Nankai University, 2015 - 2019
 
 Research Interests
 ======
-*Real Algebraic Geometry
-*Algorithmic Algebraic Geometry
-*Tropical Geometry
-*Complexity Theory
+* Real Algebraic Geometry
+* Algorithmic Algebraic Geometry
+* Tropical Geometry
+* Complexity Theory
