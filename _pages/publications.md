@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-## Publications ##
+
 * <a href="/files/sa.pdf" target="_blank">**Viro's Patchworking and the signed reduced A-discriminant**<a/> <br/>
 by Weixun Deng, J. Maurice Rojas, and Mate Telek,
 accepted for presentation at MEGA 2024 (Effective Methods in Algebraic Geometry, July 29 - August 2, MPI Leipzig, Germany),  <a href="https://arxiv.org/abs/2403.08497" target="_blank">(Arxiv)</a>
