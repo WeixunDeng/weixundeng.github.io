@@ -13,9 +13,9 @@ deng15521037237@tamu.edu
 
 About Me
 ======
-I am a Ph.D. student in the Department of Mathematics at Texas A&M University advised by Professor J. Maurice Rojas.
+I am a Ph.D. student in the Department of Mathematics at Texas A&M University advised by Professor <a href="https://people.tamu.edu/~rojas/" target="_blank">J. Maurice Rojas</a>.
 
-My research interests are Mathematics of Rea
+My research interests are Mathematics of Real Algebraic Geometry, Algorithmic Algebraic Geometry, Tropical Geometry, Complexity Theory and in particular their intersections.
 
 You can find my completed CV here.
 
