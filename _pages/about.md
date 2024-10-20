@@ -6,8 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-Weixun Deng
-======
+
 deng15521037237@tamu.edu
 
 About Me
