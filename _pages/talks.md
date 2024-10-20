@@ -7,6 +7,7 @@ author_profile: true
 
 ## Talks ##
 * **Computing isotopy type of positive zero sets faster for near-circuit polynomials.**
+  7th SIAM Texas-Louisiana Sectional Meeting, Waco, TX, Oct. 2024 
 * Math 142: Business Calculus, 2023 Fall, TAMU.
 
 ## Teaching Assistant ##
