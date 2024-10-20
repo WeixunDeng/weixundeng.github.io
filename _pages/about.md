@@ -7,6 +7,10 @@ redirect_from:
   - /about.html
 ---
 
+Weixun Deng
+======
+deng15521037237@tamu.edu
+
 About Me
 ======
 I am a Ph.D. student in the Department of Mathematics at Texas A&M University advised by Professor J. Maurice Rojas.
