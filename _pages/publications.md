@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-Author profiles on <a href="https://scholar.google.com/citations?" target="_blank">Google Scholar</a>.
 
 ## Publications ##
 * **Viro's Patchworking and the signed reduced A-discriminant** <br/>
