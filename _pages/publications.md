@@ -10,7 +10,7 @@ author_profile: true
 
 * <a href="/files/rb4.pdf" target="_blank">**Feasibility of Circuit Polynomials without Purple Swans**<a/> <br/>
 by Weixun Deng, Alperen Ergur, Grigoris Paouris, and J. Maurice Rojas,
-in Proceedings of ISSAC 2024 (International Symposium on Symbolic and Algebraic Computation, July 16-19, Raleigh, NC, USA), pp. 429-436
+in Proceedings of ISSAC 2024 (International Symposium on Symbolic and Algebraic Computation, July 16-19, Raleigh, NC, USA), pp. 429-436, <a href="https://doi.org/10.1145/3666000.3669716" target="_blank">(doi)</a>
 
 * <a href="/files/pa.pdf" target="_blank">**Quickly Computing Isotopy Type for Exponential Sums over Circuits (Extended Abstract)**<a/> <br/>
 by Frederic Bihan, Erika Croy, Weixun Deng, Kaitlyn Phillipson, Robert J. Rennie, and J. Maurice Rojas,
