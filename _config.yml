@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "College Station, TX"
+locale                   : "en-US"
 title                    : "Weixun Deng's website"
 title_separator          : "-"
 name                     : &name "Weixun Deng"
@@ -40,7 +40,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "WeixunDeng"
+  github           : 
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
