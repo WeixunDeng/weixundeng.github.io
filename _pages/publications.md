@@ -17,6 +17,10 @@ by Frederic Bihan, Erika Croy, Weixun Deng, Kaitlyn Phillipson, Robert J. Rennie
 ACM Communications in Computer Algebra, Volume 57, Issue 3, pp. 152-155,  <a href="https://dl.acm.org/doi/10.1145/3637529.3637538" target="_blank">(doi)</a>
 
 ## Preprints ##
+* <a href="/files/3p.pdf" target="_blank">**Optimal Bounds for the Number of Pieces of Near-Circuit Hypersurfaces**<a/> <br/>
+by Weixun Deng, J. Maurice Rojas, and Cordelia Russell,
+Submitted to a conference.
+
 * <a href="/files/sa.pdf" target="_blank">**Viro's Patchworking and the signed reduced A-discriminant**<a/> <br/>
 by Weixun Deng, J. Maurice Rojas, and Mate Telek,
 accepted for presentation at MEGA 2024 (Effective Methods in Algebraic Geometry, July 29 - August 2, MPI Leipzig, Germany), under review for the special issue of the
