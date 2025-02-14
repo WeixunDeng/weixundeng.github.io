@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Weixun Deng"
+title: "Weixun Deng's website"
 author_profile: true
 redirect_from: 
   - /about/
