@@ -19,7 +19,7 @@ ACM Communications in Computer Algebra, Volume 57, Issue 3, pp. 152-155,  <a hre
 ## Preprints ##
 * <a href="/files/3p.pdf" target="_blank">**Optimal Bounds for the Number of Pieces of Near-Circuit Hypersurfaces**<a/> <br/>
 by Weixun Deng, J. Maurice Rojas, and Cordelia Russell,
-submitted to a conference.
+submitted to a conference, <a href="https://arxiv.org/abs/2502.10590" target="_blank">(Arxiv)</a>
 
 * <a href="/files/sa.pdf" target="_blank">**Viro's Patchworking and the signed reduced A-discriminant**<a/> <br/>
 by Weixun Deng, J. Maurice Rojas, and Mate Telek,
