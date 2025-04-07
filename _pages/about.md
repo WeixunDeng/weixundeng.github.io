@@ -27,5 +27,6 @@ Research Interests
 ======
 * Real Algebraic Geometry
 * Algorithmic Algebraic Geometry
+* Fewnomial Theory
 * Tropical Geometry
 * Complexity Theory
