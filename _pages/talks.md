@@ -7,7 +7,7 @@ author_profile: true
 
 ## Talks ##
 * **Computing Isotopy Types of Positive Zero Sets of Near-Circuit Polynomials.**<br/>
-  <a href="https://www.siam.org/conferences-events/past-event-archive/ag25/">SIAM Conference on Applied Algebraic Geometry 2025<a/>, 2025 SIAM Conference on Applied Algebraic Geometry, East Lansing, MI, July 2025
+  <a href="https://www.siam.org/conferences-events/past-event-archive/ag25/">SIAM Conference on Applied Algebraic Geometry 2025<a/>, East Lansing, MI, July 2025
 * **Computing isotopy type of positive zero sets faster for near-circuit polynomials.**<br/>
   <a href="https://math.artsandsciences.baylor.edu/conferences/siam-conference">7th SIAM Texas-Louisiana Sectional Meeting<a/>, Waco, TX, Oct. 2024 
 * **Computing isotopy type of positive zero sets faster for n-variate (n + k)-nomials.**<br/>
