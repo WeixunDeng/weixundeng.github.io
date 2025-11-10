@@ -16,7 +16,7 @@ I am a Ph.D. student in the Department of Mathematics at Texas A&M University ad
 
 My research interests are Mathematics of Real Algebraic Geometry, Algorithmic Algebraic Geometry, Tropical Geometry, Complexity Theory and in particular their intersections.
 
-You can find my completed CV <a href="/files/CV.pdf" target="_blank">here</a>.
+You can find my completed CV <a href="/files/CV(New).pdf" target="_blank">here</a>.
 
 Education
 ======
