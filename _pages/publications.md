@@ -6,13 +6,12 @@ author_profile: true
 ---
 
 
-* <a href="/files/3p.pdf" target="_blank">**Optimal Bounds for the Number of Pieces of Near-Circuit Hypersurfaces**<a/> <br/>
-by Weixun Deng, J. Maurice Rojas, and Cordelia Russell,
-accepted, in Proceedings of ISSAC 2025 (International Symposium on Symbolic and Algebraic Computation), ACM Press. <a href="https://arxiv.org/abs/2502.10590" target="_blank">(Arxiv)</a>
+* <a href="/files/3p.pdf" target="_blank">**Optimal Bounds for the Number of Real Pieces of Near-Circuit Hypersurfaces**<a/> <br/>
+by Weixun Deng, J. Maurice Rojas, and Cordelia Russell, in Proceedings of ISSAC 2025 (International Symposium on Symbolic and Algebraic Computation), pp. 319-327, <a href="https://doi.org/10.1145/3747199.3747576" target="_blank">(doi)</a>, <a href="https://arxiv.org/abs/2502.10590" target="_blank">(Arxiv)</a>
 
 * <a href="/files/sa.pdf" target="_blank">**Viro's Patchworking and the signed reduced A-discriminant**<a/> <br/>
 by Weixun Deng, J. Maurice Rojas, and Mate Telek,
-Journal of Symbolic Computation,  <a href="https://arxiv.org/abs/2403.08497" target="_blank">(Arxiv)</a>, <a href="https://doi.org/10.1016/j.jsc.2025.102462" target="_blank">(doi)</a>
+Journal of Symbolic Computation, <a href="https://doi.org/10.1016/j.jsc.2025.102462" target="_blank">(doi)</a>,  <a href="https://arxiv.org/abs/2403.08497" target="_blank">(Arxiv)</a>
 
 * <a href="/files/rb4.pdf" target="_blank">**Feasibility of Circuit Polynomials without Purple Swans**<a/> <br/>
 by Weixun Deng, Alperen Ergur, Grigoris Paouris, and J. Maurice Rojas,
