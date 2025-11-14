@@ -5,10 +5,10 @@ permalink: /teaching/
 author_profile: true
 ---
 
-##REU (Research Experiences for Undergraduates) Mentoring##
-* Mentor for 2 REU students. Result in the following paper: Optimal Bounds for the Number of Pieces of Real Near-Circuit Hypersurfaces, TAMU, Summer 2024
-* Mentor for 3 REU students, TAMU, Summer 2023
-* Mentor for 1 REU students. Result in the following paper: Trinomials and Deterministic Complexity Limits for Real Solving, TAMU, Summer 2022
+## REU (Research Experiences for Undergraduates) Mentoring ##
+* <a href="https://artsci.tamu.edu/mathematics/academics/undergraduate/research/reu/results/results-2024.html">REU 2024<a/>. Mentor for 2 REU students. Result in the following paper: Optimal Bounds for the Number of Pieces of Real Near-Circuit Hypersurfaces, TAMU, Summer 2024
+* <a href="https://artsci.tamu.edu/mathematics/academics/undergraduate/research/reu/results/results-2023.html">REU 2023<a/>Mentor for 3 REU students, TAMU, Summer 2023
+* <a href="https://artsci.tamu.edu/mathematics/academics/undergraduate/research/reu/results/results-2022.html">REU 2022<a/>Mentor for 1 REU students. Result in the following paper: Trinomials and Deterministic Complexity Limits for Real Solving, TAMU, Summer 2022
 
 ## Instructor of Record ##
 * Math 142: Business Calculus, 2024 Fall, TAMU.
