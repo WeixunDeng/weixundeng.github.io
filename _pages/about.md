@@ -14,7 +14,7 @@ About Me
 ======
 I am a Ph.D. student in the Department of Mathematics at Texas A&M University advised by Professor <a href="https://people.tamu.edu/~rojas/" target="_blank">J. Maurice Rojas</a>.
 
-My research interests are Mathematics of Real Algebraic Geometry, Algorithmic Algebraic Geometry, Tropical Geometry, Complexity Theory and in particular their intersections.
+My research interests are Mathematics of Real Algebraic Geometry, Computational Algebraic Geometry, Tropical Geometry, Complexity Theory and in particular their intersections.
 
 You can find my completed CV <a href="/files/CV(New).pdf" target="_blank">here</a>.
 
@@ -26,7 +26,7 @@ Education
 Research Interests
 ======
 * Real Algebraic Geometry
-* Algorithmic Algebraic Geometry
+* Computational Algebraic Geometry
 * Fewnomial Theory
 * Tropical Geometry
 * Complexity Theory
